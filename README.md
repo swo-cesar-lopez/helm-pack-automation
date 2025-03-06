@@ -26,10 +26,10 @@ La Helm Pack Automation Tool es una herramienta de línea de comandos diseñada 
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/swo-cesar-lopez/Helm_Pack_Creator_Tool.git
+git clone https://github.com/swo-cesar-lopez/helm-pack-automation.git
 
 # Navegar al directorio
-cd Helm_Pack_Creator_Tool
+cd helm-pack-automation
 
 # Configurar la ubicación base de los paquetes (opcional)
 export LOCAL_PATH="/ruta/a/tus/paquetes"
