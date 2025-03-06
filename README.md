@@ -15,12 +15,12 @@ La Helm Pack Automation Tool es una herramienta de línea de comandos diseñada 
 - [Introducción y Visión General](docs/introduction.md)
 - *(In progress)* [Arquitectura del Sistema](docs/architecture.md)
 - *(Pending)* [Requisitos e Instalación](docs/installation.md)
-- *(Pending)*[Guía de Uso](docs/usage.md)
-- *(Pending)*[Paquetes Soportados](docs/supported-packages.md)
-- *(Pending)*[Personalización de Paquetes](docs/customization.md)
-- *(Pending)*[Desarrollo y Extensión](docs/development.md)
-- *(Pending)*[Solución de Problemas](docs/troubleshooting.md)
-- *(Pending)*[Contribución al Proyecto](docs/contributing.md)
+- *(In progress)* [Guía de Uso](docs/usage.md)
+- *(Pending)* [Paquetes Soportados](docs/supported-packages.md)
+- *(Pending)* [Personalización de Paquetes](docs/customization.md)
+- *(Pending)* [Desarrollo y Extensión](docs/development.md)
+- *(Pending)* [Solución de Problemas](docs/troubleshooting.md)
+- *(Pending)* [Contribución al Proyecto](docs/contributing.md)
 
 ## 🚀 Inicio Rápido
 
