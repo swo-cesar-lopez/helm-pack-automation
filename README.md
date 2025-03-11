@@ -51,7 +51,7 @@ export LOCAL_PATH="/ruta/a/tus/paquetes"
 
 ## 📝 Licencia
 
-Este proyecto está licenciado bajo [INCLUIR LICENCIA]
+Este proyecto esta abierto para el equipo de Spectro Cloud & SWO.
 
 ## 🤝 Contribución
 
